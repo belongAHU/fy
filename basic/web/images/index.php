@@ -25,13 +25,14 @@
             border: none;
         }
         .list-group-item a{
-            color: #7D78CD;
+            color: #5639A3;
         }
         .col-sm-3 img{
             width:80%;
             height: 80%;
             margin-left: 5%;
         }
+
 
         @media (min-width: 1280px) {
             #container1 .container {
@@ -176,11 +177,11 @@
             <div class="col-sm-3 col-lg-3">
                 <img src="/images/police3.gif"/>
                 <ul class="list-group">
-                    <li class="list-group-item"><img src="/images/list.png" style="width: 10%;height: 10%;"><a href="/site/jdxz">鉴定须知</a></li>
-                    <li class="list-group-item"><img src="/images/list.png" style="width: 10%;height: 10%;"><a href="/site/lct">伤情鉴定流程图</a></li>
-                    <li class="list-group-item"><img src="/images/list.png" style="width: 10%;height: 10%;"><a href="/site/yysy">常用医用术语释义</a></li>
-                    <li class="list-group-item"><img src="/images/list.png" style="width: 10%;height: 10%;"><a href="/site/jdbz">人体损伤程度鉴定标准</a></li>
-                    <li class="list-group-item"><img src="/images/list.png" style="width: 10%;height: 10%;"><a href="/site/tsss">特殊损伤证据收集注意事项</a></li>
+                    <li class="list-group-item"><a href="/site/jdxz">鉴定须知</a></li>
+                    <li class="list-group-item"><a href="/site/lct">伤情鉴定流程图</a></li>
+                    <li class="list-group-item"><a href="/site/yysy">常用医用术语释义</a></li>
+                    <li class="list-group-item"><a href="/site/jdbz">人体损伤程度鉴定标准</a></li>
+                    <li class="list-group-item"><a href="/site/tsss">特殊损伤证据收集注意事项</a></li>
                 </ul>
                 <!--<img src="police.jpg" style="width: 270px; height: 500px;">-->
             </div>
