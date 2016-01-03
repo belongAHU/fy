@@ -84,22 +84,16 @@
         <div class="row-fluid">
             <div class="col-sm-3">
                 <ul class="nav nav-pills nav-stacked">
-                    <li class="active"><a href="/site/result?type=7">颅脑、脊髓损伤</a></li>
-                    <li><a href="/site/result?type=2">面部、耳廓损伤</a></li>
-                    <li><a href="/site/result?type=4">视器视力损伤</a></li>
-                    <li><a href="/site/result?type=3">听器听力损伤</a></li>
-                    <li><a href="/site/result?type=5">颈部损伤</a></li>
-                    <li><a href="/site/result?type=6">胸部损伤</a></li>
-                    <li><a href="/site/result?type=1">腹部损伤</a></li>
-                    <li><a href="/site/result?type=8">盆部及会阴部损伤</a></li>
-                    <li><a href="/site/result?type=9">脊柱四肢损伤</a></li>
-                    <li><a href="/site/result?type=10">手损伤</a></li>
-                    <li><a href="/site/result?type=11">体表损伤</a></li>
-                    <li><a href="/site/result?type=12">其他损伤</a></li>
+		    <?php  foreach($typeList as $typeKey => $typeTitle):?>   
+		    <li <?php if($type == $typeKey) echo 'class="active"'; ?> >
+			<a href="/site/result?type=<?php echo $typeKey ?>"><?php echo $typeTitle;?>
+			</a>
+		    </li>
+		    <?php endforeach; ?>
                 </ul>
             </div>
             <div class="col-sm-9">
-                <h1 class="page-header">法医鉴定流程</h1>
+                <h1 class="page-header"></h1>
 
                 <div class="ystep2"></div>
                 <div class="progress">
