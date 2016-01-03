@@ -71,10 +71,14 @@ class SiteController extends Controller
 
         $pages = new Pagination(['totalCount' => $data->count(), 'pageSize' => '15']);
         $model = $data->offset($pages->offset)->limit($pages->limit)->all();
+	$typeList = Yii::$app->params['injuryType'];
 
         return $this->render('result',array(
             'resultModel' => $model,
             'pages' => $pages,
+	    'word' => isset($word) ? $word : '',
+	    'type' => isset($type) ? $type : '',
+	    'typeList' => $typeList,
         ));
     }
 
