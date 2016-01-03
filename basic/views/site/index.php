@@ -24,11 +24,11 @@
         .list-group-item a{
             color: #7D78CD;;
         }
-/*        .col-sm-3 img{
+        .col-sm-3 img{
             width:80%;
             height: 80%;
             margin-left: 5%;
-        }*/
+        }
 
 
         @media (min-width: 1280px) {

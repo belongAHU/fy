@@ -12,12 +12,12 @@
     <style>
         .col-sm-3 ul.nav {
             position: fixed;
-            background-color: #F5F5F5;
-            border-right: 1px solid #EEE;
-            margin-top: -15px;
             border-radius: 4px;
         }
-
+        .col-sm-3 .nav li{
+            border: solid 1px #DDD;
+            border-top: none;
+        }
         .page-header {
             margin: 0px 0px 20px;
         }
@@ -83,8 +83,8 @@
     <div class="container">
         <div class="row-fluid">
             <div class="col-sm-3">
-                <ul class="nav">
-                    <li class="active"><a href="/site/result?type=7">颅脑、脊髓损伤 <span class="sr-only">(current)</span></a></li>
+                <ul class="nav nav-pills nav-stacked">
+                    <li class="active"><a href="/site/result?type=7">颅脑、脊髓损伤</a></li>
                     <li><a href="/site/result?type=2">面部、耳廓损伤</a></li>
                     <li><a href="/site/result?type=4">视器视力损伤</a></li>
                     <li><a href="/site/result?type=3">听器听力损伤</a></li>
