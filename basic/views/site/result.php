@@ -107,7 +107,14 @@
                     <div class="progress-bar progress-bar-info progress-bar-striped" style="width:42%">3~4天</div>
                     <div class="progress-bar progress-bar-warning progress-bar-striped" style="width:30%">1~2天</div>
                 </div>
-                <h2 class="sub-header">搜索结果</h2>
+                <h2 class="sub-header">
+                <?php if(isset($type)): ?>	
+		<?php	echo isset(Yii::$app->params['injuryType'][$type]) ? Yii::$app->params['injuryType'][$type] : '搜索结果';
+                ?>
+		<?php else: ?>
+		搜索结果
+		<?php endif; ?>
+                </h2>
                 <div class="table-responsive">
                     <table class="table table-striped">
                         <thead>
