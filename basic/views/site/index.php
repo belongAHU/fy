@@ -22,7 +22,7 @@
             margin-left: 10%;
         }
         .list-group-item a{
-            color: #7D78CD;
+            color: black;
         }
         .col-sm-3 img{
             width:80%;
