@@ -112,7 +112,9 @@ use yii\widgets\LinkPager;
                 </ul>
             </div>
             <div class="col-sm-9">
-                <h1 class="page-header"></h1>
+                <h2 class="page-header">
+                    法医鉴定流程
+                </h2>
 
                 <div class="ystep2"></div>
                 <div class="progress">
