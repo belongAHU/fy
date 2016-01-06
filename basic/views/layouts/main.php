@@ -27,55 +27,55 @@
         }
 
 
-        ul.nav-stacked{
-            width: 200px;
-            margin-top: 20px;
-        }
+        /*ul.nav-stacked{*/
+            /*width: 200px;*/
+            /*margin-top: 20px;*/
+        /*}*/
 
-        ul.nav-tabs>li{
-            position: relative;
-            display: block;
-        }
+        /*ul.nav-tabs>li{*/
+            /*position: relative;*/
+            /*display: block;*/
+        /*}*/
 
-        ul.nav-tabs li a{
-            display: block;
-            padding: 4px 20px;
-            font-size: 13px;
-            font-weight: 500;
-            color: #767676;
-            border-radius: 0px;
-        }
+        /*ul.nav-tabs li a{*/
+            /*display: block;*/
+            /*padding: 4px 20px;*/
+            /*font-size: 13px;*/
+            /*font-weight: 500;*/
+            /*color: #767676;*/
+            /*border-radius: 0px;*/
+        /*}*/
 
-        ul.nav-tabs li.active>a, ul.nav-tabs li.active>a:hover{
-            padding-left: 18px;
-            font-weight: 700;
-            color: #563D7C;
-            background-color: transparent;
-            border-left: 2px solid #563D7C;
-            border-top: none;
-            border-right: none;
-        }
+        /*ul.nav-tabs li.active>a, ul.nav-tabs li.active>a:hover{*/
+            /*padding-left: 18px;*/
+            /*font-weight: 700;*/
+            /*color: #563D7C;*/
+            /*background-color: transparent;*/
+            /*border-left: 2px solid #563D7C;*/
+            /*border-top: none;*/
+            /*border-right: none;*/
+        /*}*/
 
-        ul.nav-tabs.affix{
-            top: 60px; /* Set the top position of pinned element */
-        }
+        /*ul.nav-tabs.affix{*/
+            /*top: 60px; !* Set the top position of pinned element *!*/
+        /*}*/
 
-        ul.nav-tabs .nav li{
-            display: block;
-        }
+        /*ul.nav-tabs .nav li{*/
+            /*display: block;*/
+        /*}*/
 
-        ul.nav-tabs .nav a{
-            padding-top: 1px;
-            padding-bottom: 1px;
-            padding-left: 30px;
-            font-size: 12px;
-            font-weight: 400;
-        }
+        /*ul.nav-tabs .nav a{*/
+            /*padding-top: 1px;*/
+            /*padding-bottom: 1px;*/
+            /*padding-left: 30px;*/
+            /*font-size: 12px;*/
+            /*font-weight: 400;*/
+        /*}*/
 
-        ul.nav .nav li.active a{
-            padding-left: 28px;
-            font-weight: 500;
-        }
+        /*ul.nav .nav li.active a{*/
+            /*padding-left: 28px;*/
+            /*font-weight: 500;*/
+        /*}*/
     </style>
 </head>
 <body data-spy="scroll" data-target=".scrollspy">
