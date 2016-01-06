@@ -6,8 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>鉴定标准查询系统</title>
     <style>
+        body{
+            background-image: url("./basic/web/images/background.png");
+        }
         .siderbar-header{
-            color: black;
+            color: inherit;
         }
         .siderbar-menu{
             list-style: none;
