@@ -60,9 +60,9 @@
             }
 
             .siderbar{
-                background-color: #EEE;
+                background-color: inherit;
                 height: 400px;
-                color: inherit;
+                color: #FFF;
             }
 
         }
