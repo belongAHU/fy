@@ -90,7 +90,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/site/result">鉴定查询</a>
+                <a class="navbar-brand" href="/site/result">法医鉴定查询系统</a>
             </div>
             <div id="navbar-collapse" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
