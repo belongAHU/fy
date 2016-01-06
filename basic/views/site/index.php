@@ -10,7 +10,7 @@
             background-image: url("images/background.png");
         }
         .carousel-control{
-            opacity:0;
+            opacity: 0.5;
         }
         .siderbar-header{
             color: black;
