@@ -6,6 +6,9 @@
     <title>常用医用术语释义</title>
 </head>
 <style>
+    body{
+        background-image: url("images/background.png");
+    }
     #drawing{
         margin-left: -25%;
     }
