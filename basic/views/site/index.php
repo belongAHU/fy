@@ -147,7 +147,7 @@
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img class="first-slide" src="index_1.jpg" alt="First slide">
+                        <img class="first-slide" src="images/index_1.jpg" alt="First slide">
 
                         <div class="container">
                             <div class="carousel-caption">
@@ -155,7 +155,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img class="second-slide" src="index_2.jpg" alt="Second slide">
+                        <img class="second-slide" src="images/index_2.jpg" alt="Second slide">
 
                         <div class="container">
                             <div class="carousel-caption">
@@ -163,7 +163,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img class="third-slide" src="index_3.jpg" alt="Third slide">
+                        <img class="third-slide" src="images/index_3.jpg" alt="Third slide">
 
                         <div class="container">
                             <div class="carousel-caption">
