@@ -7,10 +7,10 @@
     <title>鉴定标准查询系统</title>
     <style>
         body{
-            background-image: url("./basic/web/images/background.png");
+            background-image: url("images/background.png");
         }
         .siderbar-header{
-            color: inherit;
+            color: black;
         }
         .siderbar-menu{
             list-style: none;
@@ -62,7 +62,7 @@
             .siderbar{
                 background-color: #EEE;
                 height: 400px;
-                color: #FFF;
+                color: inherit;
             }
 
         }
@@ -88,7 +88,7 @@
             }
 
             .siderbar{
-                background-color: #EEE;
+                background-color: inherit;
                 height: 450px;
                 color: #FFF;
             }
