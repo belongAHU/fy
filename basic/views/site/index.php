@@ -9,6 +9,9 @@
         body{
             background-image: url("images/background.png");
         }
+        .carousel-control{
+            opacity:0;
+        }
         .siderbar-header{
             color: black;
         }
