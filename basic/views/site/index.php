@@ -6,11 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>鉴定标准查询系统</title>
     <style>
-        .siderbar{
-            background-color: #EEE;
-            height: 400px;
-            color: #FFF;
-        }
         .siderbar-header{
             color: black;
         }
@@ -49,7 +44,6 @@
             }
 
 
-
             .carousel-inner > .active > img {
                 width:100%;
                 height: 400px;
@@ -60,6 +54,12 @@
                 width: 100%;
                 height: 400px;
                 margin: auto;
+            }
+
+            .siderbar{
+                background-color: #EEE;
+                height: 400px;
+                color: #FFF;
             }
 
         }
@@ -82,6 +82,12 @@
                 width: 100%;
                 height: 450px;
                 margin: auto;
+            }
+
+            .siderbar{
+                background-color: #EEE;
+                height: 450px;
+                color: #FFF;
             }
         }
     </style>
