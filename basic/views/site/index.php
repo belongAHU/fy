@@ -9,11 +9,10 @@
         body{
             background-image: url("images/background.png");
         }
-        .carousel-control{
-            opacity: 0.5;
-        }
+
         .siderbar-header{
             color: black;
+            border: 1px solid #cccccc;
         }
         .siderbar-menu{
             list-style: none;
@@ -21,10 +20,14 @@
             padding-left: 0px;
             padding-bottom: 0px;
             margin-bottom: 0px;
+            border-right: 1px solid #cccccc;
+            border-left: 1px solid #cccccc;
         }
 
         .siderbar-listgroup{
             line-height: 60px;
+            border-bottom: 1px solid #cccccc;
+            padding-left: 20px;
         }
         .siderbar-listgroup strong{
             color: black;
