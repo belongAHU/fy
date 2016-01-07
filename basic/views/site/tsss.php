@@ -58,7 +58,6 @@
 
 
 </div>
-<hr class="featurette-divider">
 <script src="./bootstrap-3.3.5-dist/jquery-2.1.4/jquery.min.js"></script>
 <script src="./bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
 </body>
