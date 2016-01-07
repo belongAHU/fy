@@ -14,7 +14,7 @@
         <a href="">常用医用术语释义</a>
     </div>
     <hr style="border-color:#002A5F"/>
-    <div class="container">
+    <div class="container text">
         <h1>常用医用术语释义</h1>
         <hr>
         <table class="table table-hover">
@@ -80,7 +80,7 @@
             </tbody>
         </table>
     </div>
-    <div class="container">
+    <div class="container text">
         <svg id="drawing" xmlns="http://www.w3.org/2000/svg" version="1.1"
              xmlns:xlink="http://www.w3.org/1999/xlink" width="905" height="772.125"
              viewBox="86 107.875 905 772.125">
