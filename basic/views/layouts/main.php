@@ -69,7 +69,7 @@
 </div>
 
 <?=$content?>
-
+<hr>
 <footer>
     <p>
     <center> ©Copyright - 合肥市公安局法医伤情鉴定系统</center>
