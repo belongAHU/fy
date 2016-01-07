@@ -6,37 +6,7 @@
     <title>常用医用术语释义</title>
 </head>
 <style>
-    #drawing{
-        margin-left: -25%;
-    }
-    @media (min-width: 1280px) {
-        #container1 .container {
-            width: 100%;
-        }
 
-        .text .container {
-            width: 70%;
-            margin-top: 30px;
-        }
-        #drawing{
-        margin-left: -25%;
-    }
-
-    }
-
-    @media (min-width: 1600px) {
-        #container1 .container {
-            width: 70%;
-        }
-
-        .text .container {
-            width: 51%;
-            margin-top: 30px;
-        }
-        #drawing{
-        margin-left: -35%;
-    }
-    }
 </style>
 <body>
 <div class="text">

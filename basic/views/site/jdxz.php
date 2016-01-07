@@ -5,56 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>人体伤情法医鉴定须知</title>
     <style>
-        .current-position {
-            border: solid;
-            border-color: #ededed;
-            border-width: 1px;
-            padding: 5px;
-        }
-
-        #container2 h1 {
-            text-align: center;
-            font-weight: bold;
-            color: #002A5F;
-        }
-
-        #container2 p {
-            font-size: large;
-        }
-
-        #container2 .tel {
-            text-align: right;
-        }
-
-        @media (min-width: 1280px) {
-            #container1 .container {
-                width: 100%;
-            }
-
-            #container2 .container {
-                border: solid;
-                border-color: #ededed;
-                border-width: 2px;
-                border-radius: 10px;
-                padding: 10px;
-                width: 70%;
-            }
-        }
-
-        @media (min-width: 1600px) {
-            #container1 .container {
-                width: 70%;
-            }
-
-            #container2 .container {
-                border: solid;
-                border-color: #ededed;
-                border-width: 2px;
-                border-radius: 10px;
-                padding: 10px;
-                width: 51%;
-            }
-        }
     </style>
 </head>
 <body>

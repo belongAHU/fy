@@ -65,27 +65,6 @@ use yii\widgets\LinkPager;
             width: 720px;
             margin-left: 8px;
         }
-
-        @media (min-width: 1280px) {
-            #container1 .container {
-                width: 100%;
-            }
-
-            .container-fluid .container {
-                width: 100%;
-            }
-        }
-
-        @media (min-width: 1600px) {
-            #container1 .container {
-                width: 70%;
-            }
-
-            .container-fluid .container {
-                width: 70%;
-            }
-        }
-
     </style>
 </head>
 

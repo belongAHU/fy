@@ -5,25 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>2015人体损伤程度鉴定标准</title>
     <style type="text/css">
-        @media (min-width: 1280px) {
-            #container1 .container {
-                width: 100%;
-            }
-            #container2 .container{
-                width: 100%;
-            }
-        }
-
-        @media (min-width: 1600px) {
-            #container1 .container {
-                width: 70%;
-            }
-            #container2 .container{
-                width: 70%;
-            }
-        }
-
-
         ul.nav-stacked{
             width: 200px;
             margin-top: 20px;

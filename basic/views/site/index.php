@@ -45,14 +45,6 @@
 
 
         @media (min-width: 1024px) {
-            #container1 .container {
-                width: 100%;
-            }
-            #container2 .container{
-                width: 100%;
-            }
-
-
             .carousel-inner > .active > img {
                 width:100%;
                 height: 400px;
@@ -74,13 +66,6 @@
         }
 
         @media (min-width: 1600px) {
-            #container1 .container {
-                width: 70%;
-            }
-            #container2 .container{
-                width: 70%;
-            }
-
             .carousel-inner > .active > img {
                 width: 100%;
                 height: 450px;

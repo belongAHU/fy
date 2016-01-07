@@ -5,28 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>伤情鉴定流程图</title>
     <style>
-
-        @media (min-width: 1280px) {
-            #container1 .container {
-                width: 100%;
-            }
-
-            .text .container {
-                width: 70%;
-                margin-top: 30px;
-            }
-        }
-
-        @media (min-width: 1600px) {
-            #container1 .container {
-                width: 70%;
-            }
-
-            .text .container {
-                width: 51%;
-                margin-top: 30px;
-            }
-        }
     </style>
 </head>
 <body>
