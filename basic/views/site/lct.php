@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>伤情鉴定流程图</title>
     <style>
+        .text{
+            padding-left: 15%;
+        }
     </style>
 </head>
 <body>
@@ -13,7 +16,7 @@
         <a href="">伤情鉴定流程图</a>
     </div>
     <hr style="border-color:#002A5F"/>
-    <div class="container">
+    <div class="container text">
         <svg id="drawing" xmlns="http://www.w3.org/2000/svg" version="1.1"
              xmlns:xlink="http://www.w3.org/1999/xlink"
              width="785.625" height="1293.5" viewBox="141.375 42 785.625 1293.5">

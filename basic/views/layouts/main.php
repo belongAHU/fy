@@ -8,9 +8,6 @@
     <link rel="stylesheet" href="/css/all.css">
     <title><?php echo $this->title; ?></title>
     <style type="text/css">
-        body{
-            background-image: url("images/background.png");
-        }
         @media (min-width: 1024px) {
             #container1 .container {
                 width: 100%;
@@ -27,6 +24,9 @@
             #container2 .container{
                 width: 70%;
             }
+        }
+        .text h1{
+            text-align: center;
         }
     </style>
 </head>

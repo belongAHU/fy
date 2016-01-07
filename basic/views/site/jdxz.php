@@ -13,6 +13,7 @@
         <a href="">鉴定须知</a>
     </div>
     <hr style="border-color:#002A5F"/>
+    <div class="container text">
     <h1>人体伤情法医鉴定须知</h1>
     <hr>
     <p>1.办案民警与伤者一起到法医鉴定机构，并携带数字化物证鉴定系统预约成功后打印的鉴定委托书（需加盖单位公章）。
@@ -33,6 +34,7 @@
     <p class="tel">联系电话 0551-62928403</p>
 
     <p class="tel">监督电话 0551-62928584</p>
+        </div>
 </div>
 <script src="./bootstrap-3.3.5-dist/jquery-2.1.4/jquery.min.js"></script>
 <script src="./bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
