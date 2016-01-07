@@ -10,21 +10,17 @@
     <style type="text/css">
     </style>
 </head>
-<body data-spy="scroll" data-target=".scrollspy">
+<body>
 <div id="container1">
     <div class="container">
-        <nav class="navbar navbar-inverse" role="navigation">
+        <nav class="navbar navbar-inverse">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"
-                        aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
+                <div class="navbar-img">
+                    <img src="images/nav-header.png">
+                </div>
                 <a class="navbar-brand" href="/site/result">法医鉴定查询系统</a>
             </div>
-            <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div>
                 <ul class="nav navbar-nav">
                     <li><a href="/">首页</a></li>
                     <li><a href="#">联系我们</a></li>
