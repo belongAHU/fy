@@ -12,7 +12,7 @@
     <div class="container">
     </div>
 </div>
-<div id="container2">
+<div class="text">
     <div class="container">
         <div class="row">
             <div class="col-sm-3"></div>
