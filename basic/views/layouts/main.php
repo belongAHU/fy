@@ -25,10 +25,6 @@
                 width: 70%;
             }
         }
-        .text{
-            line-height: 32px;
-
-        }
         .text h1{
             text-align: center;
         }
