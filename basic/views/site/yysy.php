@@ -15,6 +15,7 @@
     </div>
     <hr style="border-color:#002A5F"/>
     <h1>常用医用术语释义</h1>
+    <hr>
     <div class="container">
         <table class="table table-hover">
             <thead>
