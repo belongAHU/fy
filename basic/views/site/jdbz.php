@@ -8,6 +8,7 @@
         ul.nav-stacked{
             width: 200px;
             margin-top: 20px;
+            border-bottom: none;
         }
 
         ul.nav-tabs>li{
