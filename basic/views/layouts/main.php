@@ -16,7 +16,7 @@
         <nav class="navbar navbar-inverse">
             <div class="navbar-header">
                 <div class="navbar-img">
-                    <img src="images/nav-header.png">
+                    <img src="/images/nav-header.png">
                 </div>
                 <a class="navbar-brand" href="/site/result">法医鉴定查询系统</a>
             </div>
