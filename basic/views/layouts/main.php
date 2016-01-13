@@ -29,7 +29,7 @@
                            aria-expanded="false">客户端下载 <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header">安卓版</li>
-                            <li><img src="/images/ma.jpg" style="width: 100px;height: 100px"/></li>
+                            <li><img src="/images/apk.png" style="width: 100px;height: 100px"/></li>
                         </ul>
                     </li>
                 </ul>
