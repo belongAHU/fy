@@ -22,10 +22,14 @@ use yii\widgets\LinkPager;
             border-right: 1px solid #cccccc;
             border-left: 1px solid #cccccc;
             border-top: 1px solid #cccccc;
+            border-top-left-radius: 4px;
+            border-top-right-radius:4px;
         }
         .media{
             border-bottom: 1px solid #cccccc;
             padding: 0 20px 5px 0;
+            border-bottom-left-radius: 4px;
+            border-bottom-right-radius:4px;
         }
 
         .media-object:hover{
