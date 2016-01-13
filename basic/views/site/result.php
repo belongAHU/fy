@@ -69,10 +69,6 @@ use yii\widgets\LinkPager;
 </head>
 
 <body>
-<div id="container1">
-    <div class="container">
-    </div>
-</div>
 <div class="container-fluid">
     <div class="container">
         <div class="row-fluid">
