@@ -99,7 +99,8 @@
                         <div class="img-container">
                             <img src="images/1.svg" width="20" height="20">
                         </div>
-                        <strong>鉴定须知</strong>
+                        <strong>受伤人员伤情鉴定须知
+</strong>
                     </a>
                 </li>
                 <li class="siderbar-listgroup">
